@@ -64,11 +64,11 @@ Dari hasil analisis data dan pembuatan dashboard, ditemukan beberapa insight pen
 6. Efektivitas intervensi perlu terus dipantau dan dievaluasi agar sistem bisa ditingkatkan secara berkelanjutan.
 7. Pengumpulan data tambahan dan pengembangan model yang lebih kompleks akan meningkatkan akurasi prediksi di masa depan.
 
-Dashboard yang dikembangkan memberikan visualisasi interaktif yang memudahkan departemen HR untuk memantau faktor-faktor attrition secara real-time dan membuat keputusan berbasis data untuk mengurangi tingkat attrition.
+Dashboard yang dikembangkan memberikan visualisasi interaktif yang memudahkan departemen HR untuk memantau faktor-faktor dropout secara real-time dan membuat keputusan berbasis data untuk mengurangi tingkat dropout mahasiswa Jaya Jaya institut.
 
 ### Rekomendasi Action Items
 
-Berdasarkan analisis data dan insight dari dashboard, berikut adalah rekomendasi action items untuk mengurangi tingkat attrition di Jaya Jaya Maju:
+Berdasarkan analisis data dan insight dari dashboard, berikut adalah rekomendasi action items untuk mengurangi tingkat droput di Jaya Jaya Institut:
 
 - Fokus pada intervensi dini untuk mahasiswa dengan performa rendah di semester pertama
 - Bangun sistem dukungan tambahan untuk mahasiswa yang berisiko
