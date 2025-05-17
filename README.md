@@ -27,6 +27,8 @@ Sumber data: Dataset Student performance data.csv yang berisi informasi demograf
 Setup environment:
 
 ```
+conda create --name main python=3.9
+conda activate main
 pip install -r requirements.txt
 ```
 
@@ -74,4 +76,4 @@ Berdasarkan analisis data dan insight dari dashboard, berikut adalah rekomendasi
 - Bangun sistem dukungan tambahan untuk mahasiswa yang berisiko
 - Ciptakan sesi check-in rutin dan peluang mentoring
 - Kembangkan rencana akademik yang dipersonalisasi untuk mahasiswa yang menunjukkan tanda-tanda peringatan
-- Pertimbangkan program bantuan keuangan bagi mahasiswa dengan kesulitan ekonomiMelakukan evaluasi dan perbaikan kebijakan lembur, termasuk kompensasi lembur dan batasan jam kerja tambahan.
+- Pertimbangkan program bantuan keuangan bagi mahasiswa dengan kesulitan ekonomi
