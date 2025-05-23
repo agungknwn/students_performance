@@ -47,7 +47,12 @@ if page == "Overview":
         st.subheader("Status Distribution")
         fig, ax = plt.subplots(figsize=(8, 6))
         status_counts = data["Status"].value_counts()
-        sns.barplot(x=status_counts.index, y=status_counts.values, ax=ax)
+        sns.barplot(
+            x=status_counts.index,
+            y=status_counts.values,
+            ax=ax,
+            palette=sns.color_palette("Set2", n_colors=len(status_counts)),
+        )
         st.pyplot(fig)
 
     st.subheader("Key Statistics")
