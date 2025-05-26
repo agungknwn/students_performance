@@ -48,7 +48,7 @@ streamlit run dashboard.py
 ```
 atau akses di streamlit community cloud:
 ```
-https://agungkwnw-jayainstitut.streamlit.app/
+https://agungknwn-jayainstitut.streamlit.app/
 ```
 
 ## Conclusion
