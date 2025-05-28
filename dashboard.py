@@ -62,8 +62,6 @@ elif page == "Prediction":
         load_best_model,
         predict_single_student,
         create_example_student,
-        dummy_input,
-        dummy_input2,
     )
 
     # load trained model
