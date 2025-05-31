@@ -28,19 +28,12 @@ Dataset yang digunakan dalam proyek ini adalah **Student Performance Data** yang
 
 #### Setup Environment - Anaconda
 ```bash
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.10
 conda activate main-ds
 pip install -r requirements.txt
 ```
 
-#### Setup Environment - Shell/Terminal
-```bash
-pip install pipenv
-pipenv install
-pipenv shell
-pip install -r requirements.txt
-```
-
+#### Setup Environment - Shell/Termina
 ## Business Dashboard
 Dashboard bisnis untuk monitoring dropout rate Jaya Jaya institut telah dikembangkan menggunakan Streamlit. Dashboard ini menyediakan visualisasi interaktif dan analisis komprehensif mengenai faktor-faktor yang mempengaruhi dropout.
 
