@@ -33,7 +33,6 @@ conda activate main-ds
 pip install -r requirements.txt
 ```
 
-#### Setup Environment - Shell/Termina
 ## Business Dashboard
 Dashboard bisnis untuk monitoring dropout rate Jaya Jaya institut telah dikembangkan menggunakan Streamlit. Dashboard ini menyediakan visualisasi interaktif dan analisis komprehensif mengenai faktor-faktor yang mempengaruhi dropout.
 
