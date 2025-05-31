@@ -62,7 +62,7 @@ Setelah menjalankan perintah di atas, dashboard akan terbuka di browser pada ala
 
 ### Akses Dashboard Online
 Dashboard juga dapat diakses secara online melalui Streamlit Community Cloud di:
-**https://agungknwn-jayainstitut.streamlit.app/**
+**https://jayainstitut.streamlit.app/**
 
 ## Conclusion
 Dari hasil analisis data dan pembuatan dashboard, ditemukan beberapa insight penting mengenai faktor-faktor yang mempengaruhi tingkat dropout di Jaya Jaya Institut:
