@@ -25,7 +25,7 @@ def load_data():
     # This is a placeholder - in real app load your actual data
     # For demo, creating synthetic data based on your script
     np.random.seed(42)
-    data = pd.read_csv("data.csv", sep=";")
+    data = pd.read_csv("data/data.csv", sep=";")
     return data
 
 
